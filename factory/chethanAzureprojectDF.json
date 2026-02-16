@@ -1,0 +1,9 @@
+{
+	"name": "chethanAzureprojectDF",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7d6447f7-6bc8-4784-83f0-040b3ce64a56",
+		"tenantId": "4a897265-fb4a-4812-90d7-350abf21d67c"
+	}
+}
